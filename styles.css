@@ -1,0 +1,24 @@
+body {
+    background-color: #313639;
+}
+
+table {
+    border: 5px aqua solid;
+    margin: auto;
+    width: 80%;
+    opacity: .75;
+}
+
+th, td {
+    border: 2px antiquewhite solid;
+    padding: 10px;
+    text-align: center;
+}
+
+th {
+    background-color: aqua;
+}
+
+td {
+    background-color: antiquewhite;
+}
