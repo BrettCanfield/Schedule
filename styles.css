@@ -5,6 +5,7 @@ body {
 table {
     border: 5px aqua solid;
     margin: auto;
+    margin-top: 170px;
     width: 80%;
     opacity: .75;
 }
